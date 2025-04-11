@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+lo<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -35,7 +35,7 @@
               <div class="row">
                 <div class="col-md-12">
                   <h2>I am Ricardo Andres Mayan Aguilar</h2>
-                  <p>i am sofwware engineer and english student i am twenty years old </p>
+                  <p>i am sofwware engineer and english student i am twenty years old My dream is to program video games or learn to repair computers and become a graphic designer.  </p>
                 </div>
               </div>
             </div>
