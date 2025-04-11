@@ -42,8 +42,8 @@
           </div>
           <div class="row">
             <div class="col-md-3">
-              <p>Cel: 68919490</p>
-              <p>Email. Markrey088@gmail.com</p>
+              <p>Cel: 77050464</p>
+              <p>Email. ricardoandresmayanaguilar25@gmail.com</p>
             </div>
           </div>
     </div>
